@@ -1,0 +1,4 @@
+.cerrar-sesion:hover a{
+    background-color:red;
+    transition: all 300ms;
+}
