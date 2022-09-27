@@ -30,14 +30,14 @@
     <div id="wrapper">
 
         <!-- Sidebar -->
-        <ul class="navbar-nav bg-gradient-info sidebar sidebar-dark accordion" id="accordionSidebar">
+        <ul class="navbar-nav colorprincipal sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon">
                     <i class="fa-solid fa-building"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">IMMO CMR <sup>360</sup></div>
+                <div class="sidebar-brand-text mx-3">PRAEDIUM<sup></sup></div>
             </a>
 
             <!-- Divider -->
